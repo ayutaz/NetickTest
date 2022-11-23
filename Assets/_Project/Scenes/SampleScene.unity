@@ -439,7 +439,7 @@ MonoBehaviour:
   Mode: 2
   Clients: 1
   AutoStart: 0
-  AutoConnect: 0
+  AutoConnect: 1
   Port: 16146
   ServerIPAddress: 127.0.0.1
 --- !u!4 &2039004274
